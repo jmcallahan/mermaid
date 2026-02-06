@@ -1,4 +1,4 @@
-# Sequence diagrams
+# Sequence diagrams 1
 
 > A Sequence diagram is an interaction diagram that shows how processes operate with one another and in what order.
 
